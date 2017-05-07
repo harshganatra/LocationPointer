@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Location Pointer</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps">Location Pointer</string>
+    <string name="cancel">Cancel</string>
+    <string name="settings">Settings</string>
+    <string name="no_permission">Location Pointer does not have required permissions to continue.</string>
+    <string name="location_tag">Current Location</string>
 </resources>
